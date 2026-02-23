@@ -27,4 +27,4 @@
 ## Authentication
 
 1. What happens when you call an endpoint without the API key? (status code): 401
-2. Where do you set the API key value for Docker Compose? (file name): .env
+2. Where do you set the API key value for Docker Compose? (file name): .env.docker.secret
